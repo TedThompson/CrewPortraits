@@ -1,8 +1,8 @@
 {
   "NAME":"Crew Portraits",
   "URL":"https://raw.githubusercontent.com/TedThompson/CrewPortraits/master/CrewPortraits.version",
-  "DOWNLOAD":"https://kerbalstuff.com/mod/575/Crew%20Portraits",
-  "CHANGE_LOG_URL":"https://kerbalstuff.com/mod/575/Crew%20Portraits#changelog",
+  "DOWNLOAD":"https://spacedock.info/mod/624/Crew%20Portraits",
+  "CHANGE_LOG_URL":"https://spacedock.info/mod/624/Crew%20Portraits",
   "VERSION":{"MAJOR":1,"MINOR":3,"PATCH":1,"BUILD":0},
   "KSP_VERSION":{"MAJOR":1,"MINOR":1,"PATCH":2},
   "KSP_VERSION_MIN":{"MAJOR":0,"MINOR":90,"PATCH":0},
